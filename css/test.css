@@ -1,10 +1,11 @@
 /* fade slider */
+
 .slides {
 height:300px;
 margin:50px auto;
 overflow:hidden;
 position:relative;
-width:900px;
+width:1000px;
 }
 .slides ul {
 list-style:none;
@@ -145,7 +146,7 @@ margin:0 auto;
 padding:20px;
 position:absolute;
 top:50%;
-width:200px;
+width:390px;
 
 /* css3 animation */
 -webkit-animation-name: anim_titles;
